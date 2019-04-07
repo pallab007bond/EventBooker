@@ -53,7 +53,6 @@ app.use('/graphql', graphQlHttp({
                price : +args.eventInput.price,
                date :  args.eventInput.date
            };
-           console.log(args);
            events.push(event);
            return event;
         }

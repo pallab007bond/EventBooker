@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER":"pallab_admin",
+        "MONGO_PASSWORD":"GdkWGbr1rtRPCPRH",
+        "MONGO_DB":"EventBookerDb"
+    }
+}
